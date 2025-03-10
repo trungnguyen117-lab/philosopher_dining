@@ -1,0 +1,4400 @@
+MÔ PHỎNG BÀI TOÁN NHỮNG TRIẾT HỌC GIA ĂN TỐI
+======================================================================
+
+Bắt đầu mô phỏng với 5 triết học gia vào 2025-03-10 10:27:12
+
+
+Trạng thái tại thời điểm 0.000s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.006s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.012s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.018s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.025s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.030s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.036s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.042s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.048s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.054s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.060s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.066s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.072s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.078s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.085s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.091s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.097s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.103s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.110s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.116s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.122s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.129s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.135s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.141s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.148s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.153s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.159s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.165s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.170s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.176s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.183s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.189s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.195s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.201s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.207s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.213s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.220s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.226s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.232s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.238s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.245s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.251s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.258s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.264s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.270s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.276s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.283s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.289s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.295s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.302s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.309s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.315s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.321s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.327s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.333s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.340s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.346s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.352s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.358s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.364s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.371s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.377s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.383s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.390s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.396s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.402s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.408s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.415s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.421s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.427s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.434s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.440s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.447s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.453s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.458s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.464s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.470s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.476s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.481s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.488s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.493s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.500s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.505s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.510s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.517s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.523s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.530s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.536s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.542s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.548s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.555s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.561s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.567s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.573s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.579s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.585s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.591s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.597s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.603s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.609s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.616s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.622s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.629s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.634s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.641s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.646s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.653s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.658s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.664s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.670s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.676s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.683s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.689s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.695s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.701s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.707s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.714s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.719s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.725s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.731s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.737s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.744s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.751s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.757s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.763s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.770s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.776s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.782s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.788s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.794s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.800s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.806s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.812s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.819s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.825s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.831s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.838s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.844s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.850s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.857s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.862s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.867s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.874s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.880s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.886s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.892s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.898s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.904s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.910s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.915s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.922s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.928s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.935s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.941s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.947s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.953s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.959s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.964s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.971s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 0.976s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 0.982s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.989s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 0.995s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 1.001s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.007s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.014s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.020s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.026s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.031s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.037s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.044s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.050s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.055s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.061s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.067s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.073s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.079s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.084s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.090s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.096s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.103s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.108s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.115s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.121s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.128s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.134s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.140s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.146s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.152s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.159s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.165s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.171s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.176s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.182s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.189s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.194s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.200s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.206s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.212s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.217s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.224s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.230s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.235s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.241s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.247s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.253s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.260s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 1.266s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.273s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.278s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.285s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.290s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.296s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.302s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.309s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.315s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.322s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.328s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.334s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.340s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.346s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.353s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.359s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.365s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.371s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.378s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.384s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.390s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.396s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.402s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.408s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 1.414s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.421s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.426s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.432s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.438s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.444s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.449s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.455s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.461s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.468s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.473s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.480s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.486s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.492s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.498s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.504s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.510s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.516s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.522s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.529s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.534s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.541s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.547s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.554s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.560s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.566s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.572s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.578s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.584s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.590s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.595s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.601s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.607s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.614s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.619s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.625s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.632s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.638s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.644s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.651s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.657s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.663s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.669s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.676s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.682s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.689s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.694s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 1.701s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.707s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.713s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.719s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.725s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.731s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.738s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.744s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.750s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.757s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.762s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.768s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.774s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.781s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.787s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.793s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.799s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.806s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.812s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 1.818s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.824s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.831s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.837s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.843s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.849s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.855s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.861s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.867s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.872s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.879s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.884s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.891s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.896s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.903s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.908s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.914s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.921s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.927s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.932s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.938s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.945s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.951s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.957s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.963s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.969s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.975s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.981s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 1.986s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.993s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 1.999s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.005s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.012s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.018s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.025s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.031s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.037s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.043s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.050s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.055s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.061s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.067s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.074s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.080s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.086s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.091s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.096s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.103s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.109s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.115s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.122s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.128s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.134s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.141s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.147s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.153s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.159s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.164s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.171s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.177s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.182s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.189s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.195s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.200s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.206s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.212s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.218s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.225s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.231s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.236s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.242s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.249s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.254s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.261s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.267s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.273s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.280s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.286s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.292s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.298s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.305s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.311s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.317s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.323s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.328s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.335s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.341s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.347s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.354s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.360s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.366s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.372s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.378s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.384s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.390s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.396s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.402s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.409s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.414s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.420s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.426s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.432s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.438s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.445s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.451s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.457s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.463s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.470s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.476s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.481s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.488s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.494s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.501s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.507s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.513s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.518s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.525s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.530s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.536s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.542s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.547s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.553s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.560s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.566s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.571s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.578s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.584s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.590s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.596s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.602s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.609s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.615s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.622s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.628s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.635s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.640s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.646s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.653s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.659s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.665s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.671s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.678s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.684s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.690s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.697s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.703s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.710s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.715s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.721s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.727s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.733s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.739s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.745s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.752s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.757s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.763s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.770s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.775s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.781s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.787s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.794s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.799s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.806s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.812s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.818s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.826s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.834s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.842s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.854s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.861s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.871s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.878s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.884s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.891s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.898s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.905s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.911s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.918s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.924s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.930s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.936s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.943s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.949s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.956s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, đũa 0
+======================================================================
+
+Trạng thái tại thời điểm 2.963s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang suy nghĩ, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.970s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang suy nghĩ, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.975s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang suy nghĩ, không có đũa
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.982s:
+======================================================================
+Triết học gia 0: đang đói, không có đũa
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang đói, không có đũa
+Triết học gia 3: đang đói, đũa 3
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 2.988s:
+======================================================================
+Triết học gia 0: đang ăn, đũa 0, 1
+Triết học gia 1: đang đói, không có đũa
+Triết học gia 2: đang đói, đũa 2
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Trạng thái tại thời điểm 2.995s:
+======================================================================
+Triết học gia 0: đang suy nghĩ, không có đũa
+Triết học gia 1: đang đói, đũa 1
+Triết học gia 2: đang ăn, đũa 2, 3
+Triết học gia 3: đang đói, không có đũa
+Triết học gia 4: đang ăn, đũa 4, 0
+======================================================================
+
+Trạng thái tại thời điểm 3.001s:
+======================================================================
+Triết học gia 0: đang đói, đũa 0
+Triết học gia 1: đang ăn, đũa 1, 2
+Triết học gia 2: đang suy nghĩ, không có đũa
+Triết học gia 3: đang ăn, đũa 3, 4
+Triết học gia 4: đang đói, không có đũa
+======================================================================
+
+Kết thúc mô phỏng sau 3 giây
+Thời gian kết thúc: 2025-03-10 10:27:15
